@@ -1,0 +1,108 @@
+{
+    "Empuje": {
+        "Pecho": [
+            {
+                "nombre": "Press de banca plano",
+                "series": [
+                    {
+                        "serie": 1,
+                        "repeticiones": 10,
+                        "peso": 20.0,
+                        "percepcion": 1,
+                        "volumen": 200.0
+                    },
+                    {
+                        "serie": 2,
+                        "repeticiones": 10,
+                        "peso": 20.0,
+                        "percepcion": 2,
+                        "volumen": 200.0
+                    },
+                    {
+                        "serie": 3,
+                        "repeticiones": 8,
+                        "peso": 25.0,
+                        "percepcion": 0,
+                        "volumen": 200.0
+                    }
+                ],
+                "volumen_total": 600.0,
+                "carga_progresiva": [
+                    {
+                        "peso": 20.0,
+                        "repeticiones": 10,
+                        "percepcion": 1
+                    },
+                    {
+                        "peso": 20.0,
+                        "repeticiones": 10,
+                        "percepcion": 2
+                    },
+                    {
+                        "peso": 25.0,
+                        "repeticiones": 8,
+                        "percepcion": 0
+                    }
+                ]
+            },
+            {
+                "nombre": "Press de banca inclinado",
+                "series": [
+                    {
+                        "serie": 1,
+                        "peso": 20.0,
+                        "repeticiones": 12,
+                        "percepcion": 8
+                    },
+                    {
+                        "serie": 2,
+                        "peso": 20.0,
+                        "repeticiones": 10,
+                        "percepcion": 8
+                    },
+                    {
+                        "serie": 3,
+                        "peso": 20.0,
+                        "repeticiones": 10,
+                        "percepcion": 9
+                    },
+                    {
+                        "serie": 4,
+                        "peso": 20.0,
+                        "repeticiones": 8,
+                        "percepcion": 9
+                    },
+                    {
+                        "serie": 5,
+                        "peso": 20.0,
+                        "repeticiones": 8,
+                        "percepcion": 9
+                    }
+                ]
+            },
+            {
+                "nombre": "Aperturas con mancuernas",
+                "series": [
+                    {
+                        "serie": 1,
+                        "peso": 10.0,
+                        "repeticiones": 8,
+                        "percepcion": 8
+                    },
+                    {
+                        "serie": 2,
+                        "peso": 10.0,
+                        "repeticiones": 8,
+                        "percepcion": 8
+                    },
+                    {
+                        "serie": 3,
+                        "peso": 10.0,
+                        "repeticiones": 8,
+                        "percepcion": 8
+                    }
+                ]
+            }
+        ]
+    }
+}
