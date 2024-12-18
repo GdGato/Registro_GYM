@@ -1,0 +1,2486 @@
+[
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Pecho",
+        "ejercicio": "Press inclinado con mancuernas",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 57,
+                "repeticiones": 8,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 52,
+                "repeticiones": 8,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 36,
+                "repeticiones": 10,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Hombros",
+        "ejercicio": "Press militar",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 47,
+                "repeticiones": 10,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 46,
+                "repeticiones": 11,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 35,
+                "repeticiones": 10,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Tr\u00edceps",
+        "ejercicio": "Extensi\u00f3n de tr\u00edceps con cuerda",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 52,
+                "repeticiones": 8,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 50,
+                "repeticiones": 8,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 54,
+                "repeticiones": 9,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Espalda",
+        "ejercicio": "Pull-over con mancuerna",
+        "fecha": "2024-12-18",
+        "series": [
+            {
+                "peso": 46,
+                "repeticiones": 8,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 47,
+                "repeticiones": 9,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 46,
+                "repeticiones": 9,
+                "esfuerzo": 9
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "B\u00edceps",
+        "ejercicio": "Curl con barra",
+        "fecha": "2024-12-18",
+        "series": [
+            {
+                "peso": 45,
+                "repeticiones": 8,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 36,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 27,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Trapecio",
+        "ejercicio": "Face pulls",
+        "fecha": "2024-12-18",
+        "series": [
+            {
+                "peso": 42,
+                "repeticiones": 11,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 30,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 36,
+                "repeticiones": 11,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Cu\u00e1driceps",
+        "ejercicio": "Zancadas",
+        "fecha": "2024-12-19",
+        "series": [
+            {
+                "peso": 45,
+                "repeticiones": 10,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 22,
+                "repeticiones": 10,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 32,
+                "repeticiones": 12,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Isquiotibiales",
+        "ejercicio": "Buenos d\u00edas",
+        "fecha": "2024-12-19",
+        "series": [
+            {
+                "peso": 50,
+                "repeticiones": 9,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 30,
+                "repeticiones": 10,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 55,
+                "repeticiones": 10,
+                "esfuerzo": 9
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Gl\u00fateos",
+        "ejercicio": "Hip thrust",
+        "fecha": "2024-12-19",
+        "series": [
+            {
+                "peso": 50,
+                "repeticiones": 10,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 52,
+                "repeticiones": 8,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 42,
+                "repeticiones": 8,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Pecho",
+        "ejercicio": "Press inclinado con mancuernas",
+        "fecha": "2024-12-20",
+        "series": [
+            {
+                "peso": 39,
+                "repeticiones": 12,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 32,
+                "repeticiones": 12,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 46,
+                "repeticiones": 11,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Hombros",
+        "ejercicio": "Elevaciones laterales",
+        "fecha": "2024-12-20",
+        "series": [
+            {
+                "peso": 28,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 40,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 37,
+                "repeticiones": 11,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Tr\u00edceps",
+        "ejercicio": "Patada de tr\u00edceps",
+        "fecha": "2024-12-20",
+        "series": [
+            {
+                "peso": 43,
+                "repeticiones": 11,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 55,
+                "repeticiones": 12,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 23,
+                "repeticiones": 10,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Espalda",
+        "ejercicio": "Remo con barra",
+        "fecha": "2024-12-21",
+        "series": [
+            {
+                "peso": 48,
+                "repeticiones": 11,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 44,
+                "repeticiones": 11,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 59,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "B\u00edceps",
+        "ejercicio": "Curl martillo",
+        "fecha": "2024-12-21",
+        "series": [
+            {
+                "peso": 41,
+                "repeticiones": 12,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 26,
+                "repeticiones": 10,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 37,
+                "repeticiones": 9,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Trapecio",
+        "ejercicio": "Encogimientos con mancuernas",
+        "fecha": "2024-12-21",
+        "series": [
+            {
+                "peso": 50,
+                "repeticiones": 12,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 35,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 60,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Cu\u00e1driceps",
+        "ejercicio": "Zancadas",
+        "fecha": "2024-12-22",
+        "series": [
+            {
+                "peso": 29,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 52,
+                "repeticiones": 8,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 45,
+                "repeticiones": 10,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Isquiotibiales",
+        "ejercicio": "Curl femoral",
+        "fecha": "2024-12-22",
+        "series": [
+            {
+                "peso": 54,
+                "repeticiones": 8,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 50,
+                "repeticiones": 9,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 55,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Gl\u00fateos",
+        "ejercicio": "Puente de gl\u00fateos",
+        "fecha": "2024-12-22",
+        "series": [
+            {
+                "peso": 58,
+                "repeticiones": 10,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 29,
+                "repeticiones": 11,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 36,
+                "repeticiones": 11,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Pecho",
+        "ejercicio": "Press de banca",
+        "fecha": "2024-12-23",
+        "series": [
+            {
+                "peso": 28,
+                "repeticiones": 9,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 23,
+                "repeticiones": 10,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 26,
+                "repeticiones": 10,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Hombros",
+        "ejercicio": "Elevaciones laterales",
+        "fecha": "2024-12-23",
+        "series": [
+            {
+                "peso": 27,
+                "repeticiones": 10,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 35,
+                "repeticiones": 8,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 43,
+                "repeticiones": 10,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Tr\u00edceps",
+        "ejercicio": "Press cerrado",
+        "fecha": "2024-12-23",
+        "series": [
+            {
+                "peso": 27,
+                "repeticiones": 10,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 37,
+                "repeticiones": 11,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 39,
+                "repeticiones": 9,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Espalda",
+        "ejercicio": "Pull-over con mancuerna",
+        "fecha": "2024-12-24",
+        "series": [
+            {
+                "peso": 20,
+                "repeticiones": 8,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 20,
+                "repeticiones": 12,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 23,
+                "repeticiones": 10,
+                "esfuerzo": 9
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "B\u00edceps",
+        "ejercicio": "Curl con barra",
+        "fecha": "2024-12-24",
+        "series": [
+            {
+                "peso": 46,
+                "repeticiones": 11,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 45,
+                "repeticiones": 10,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 23,
+                "repeticiones": 10,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Trapecio",
+        "ejercicio": "Encogimientos con mancuernas",
+        "fecha": "2024-12-24",
+        "series": [
+            {
+                "peso": 24,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 22,
+                "repeticiones": 11,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 54,
+                "repeticiones": 11,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Cu\u00e1driceps",
+        "ejercicio": "Prensa de pierna",
+        "fecha": "2024-12-25",
+        "series": [
+            {
+                "peso": 47,
+                "repeticiones": 10,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 35,
+                "repeticiones": 10,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 24,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Isquiotibiales",
+        "ejercicio": "Peso muerto rumano",
+        "fecha": "2024-12-25",
+        "series": [
+            {
+                "peso": 53,
+                "repeticiones": 10,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 53,
+                "repeticiones": 8,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 47,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Gl\u00fateos",
+        "ejercicio": "Puente de gl\u00fateos",
+        "fecha": "2024-12-25",
+        "series": [
+            {
+                "peso": 29,
+                "repeticiones": 10,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 48,
+                "repeticiones": 8,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 42,
+                "repeticiones": 12,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Pecho",
+        "ejercicio": "Press de banca",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 46,
+                "repeticiones": 10,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 34,
+                "repeticiones": 12,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 44,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Hombros",
+        "ejercicio": "Press militar",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 25,
+                "repeticiones": 11,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 44,
+                "repeticiones": 11,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 46,
+                "repeticiones": 11,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Tr\u00edceps",
+        "ejercicio": "Patada de tr\u00edceps",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 54,
+                "repeticiones": 12,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 31,
+                "repeticiones": 11,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 37,
+                "repeticiones": 11,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Espalda",
+        "ejercicio": "Remo con barra",
+        "fecha": "2024-12-18",
+        "series": [
+            {
+                "peso": 50,
+                "repeticiones": 10,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 32,
+                "repeticiones": 10,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 25,
+                "repeticiones": 12,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "B\u00edceps",
+        "ejercicio": "Curl con barra",
+        "fecha": "2024-12-18",
+        "series": [
+            {
+                "peso": 23,
+                "repeticiones": 9,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 24,
+                "repeticiones": 8,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 28,
+                "repeticiones": 11,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Trapecio",
+        "ejercicio": "Encogimientos con mancuernas",
+        "fecha": "2024-12-18",
+        "series": [
+            {
+                "peso": 58,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 54,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 45,
+                "repeticiones": 9,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Cu\u00e1driceps",
+        "ejercicio": "Sentadilla con barra",
+        "fecha": "2024-12-19",
+        "series": [
+            {
+                "peso": 54,
+                "repeticiones": 9,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 35,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 60,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Isquiotibiales",
+        "ejercicio": "Buenos d\u00edas",
+        "fecha": "2024-12-19",
+        "series": [
+            {
+                "peso": 59,
+                "repeticiones": 10,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 38,
+                "repeticiones": 10,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 20,
+                "repeticiones": 12,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Gl\u00fateos",
+        "ejercicio": "Puente de gl\u00fateos",
+        "fecha": "2024-12-19",
+        "series": [
+            {
+                "peso": 22,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 56,
+                "repeticiones": 10,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 56,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Pecho",
+        "ejercicio": "Press inclinado con mancuernas",
+        "fecha": "2024-12-20",
+        "series": [
+            {
+                "peso": 45,
+                "repeticiones": 11,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 20,
+                "repeticiones": 11,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 52,
+                "repeticiones": 12,
+                "esfuerzo": 9
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Hombros",
+        "ejercicio": "Press Arnold",
+        "fecha": "2024-12-20",
+        "series": [
+            {
+                "peso": 40,
+                "repeticiones": 11,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 30,
+                "repeticiones": 12,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 57,
+                "repeticiones": 11,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Tr\u00edceps",
+        "ejercicio": "Press cerrado",
+        "fecha": "2024-12-20",
+        "series": [
+            {
+                "peso": 55,
+                "repeticiones": 8,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 57,
+                "repeticiones": 8,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 53,
+                "repeticiones": 11,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Espalda",
+        "ejercicio": "Remo con barra",
+        "fecha": "2024-12-21",
+        "series": [
+            {
+                "peso": 48,
+                "repeticiones": 9,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 42,
+                "repeticiones": 10,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 40,
+                "repeticiones": 10,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "B\u00edceps",
+        "ejercicio": "Curl concentrado",
+        "fecha": "2024-12-21",
+        "series": [
+            {
+                "peso": 28,
+                "repeticiones": 12,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 39,
+                "repeticiones": 9,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 29,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Trapecio",
+        "ejercicio": "Face pulls",
+        "fecha": "2024-12-21",
+        "series": [
+            {
+                "peso": 31,
+                "repeticiones": 10,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 42,
+                "repeticiones": 8,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 53,
+                "repeticiones": 12,
+                "esfuerzo": 9
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Cu\u00e1driceps",
+        "ejercicio": "Prensa de pierna",
+        "fecha": "2024-12-22",
+        "series": [
+            {
+                "peso": 56,
+                "repeticiones": 12,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 24,
+                "repeticiones": 11,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 52,
+                "repeticiones": 11,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Isquiotibiales",
+        "ejercicio": "Buenos d\u00edas",
+        "fecha": "2024-12-22",
+        "series": [
+            {
+                "peso": 51,
+                "repeticiones": 10,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 27,
+                "repeticiones": 12,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 45,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Gl\u00fateos",
+        "ejercicio": "Patada trasera",
+        "fecha": "2024-12-22",
+        "series": [
+            {
+                "peso": 50,
+                "repeticiones": 11,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 31,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 35,
+                "repeticiones": 10,
+                "esfuerzo": 9
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Pecho",
+        "ejercicio": "Press inclinado con mancuernas",
+        "fecha": "2024-12-23",
+        "series": [
+            {
+                "peso": 38,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 58,
+                "repeticiones": 11,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 50,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Hombros",
+        "ejercicio": "Press militar",
+        "fecha": "2024-12-23",
+        "series": [
+            {
+                "peso": 25,
+                "repeticiones": 12,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 59,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 50,
+                "repeticiones": 10,
+                "esfuerzo": 9
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Tr\u00edceps",
+        "ejercicio": "Extensi\u00f3n de tr\u00edceps con cuerda",
+        "fecha": "2024-12-23",
+        "series": [
+            {
+                "peso": 25,
+                "repeticiones": 11,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 53,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 55,
+                "repeticiones": 9,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Espalda",
+        "ejercicio": "Dominadas",
+        "fecha": "2024-12-24",
+        "series": [
+            {
+                "peso": 20,
+                "repeticiones": 8,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 29,
+                "repeticiones": 10,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 36,
+                "repeticiones": 8,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "B\u00edceps",
+        "ejercicio": "Curl martillo",
+        "fecha": "2024-12-24",
+        "series": [
+            {
+                "peso": 28,
+                "repeticiones": 12,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 41,
+                "repeticiones": 8,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 51,
+                "repeticiones": 10,
+                "esfuerzo": 9
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Trapecio",
+        "ejercicio": "Remo al ment\u00f3n",
+        "fecha": "2024-12-24",
+        "series": [
+            {
+                "peso": 60,
+                "repeticiones": 8,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 24,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 58,
+                "repeticiones": 9,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Cu\u00e1driceps",
+        "ejercicio": "Prensa de pierna",
+        "fecha": "2024-12-25",
+        "series": [
+            {
+                "peso": 38,
+                "repeticiones": 8,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 47,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 43,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Isquiotibiales",
+        "ejercicio": "Buenos d\u00edas",
+        "fecha": "2024-12-25",
+        "series": [
+            {
+                "peso": 46,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 32,
+                "repeticiones": 10,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 36,
+                "repeticiones": 11,
+                "esfuerzo": 9
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Gl\u00fateos",
+        "ejercicio": "Puente de gl\u00fateos",
+        "fecha": "2024-12-25",
+        "series": [
+            {
+                "peso": 53,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 41,
+                "repeticiones": 12,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 42,
+                "repeticiones": 8,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Pecho",
+        "ejercicio": "Press inclinado con mancuernas",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 41,
+                "repeticiones": 8,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 40,
+                "repeticiones": 12,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 42,
+                "repeticiones": 8,
+                "esfuerzo": 9
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Hombros",
+        "ejercicio": "Press militar",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 55,
+                "repeticiones": 11,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 39,
+                "repeticiones": 11,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 32,
+                "repeticiones": 10,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Tr\u00edceps",
+        "ejercicio": "Extensi\u00f3n de tr\u00edceps con cuerda",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 59,
+                "repeticiones": 11,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 35,
+                "repeticiones": 10,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 20,
+                "repeticiones": 11,
+                "esfuerzo": 9
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Espalda",
+        "ejercicio": "Dominadas",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 26,
+                "repeticiones": 12,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 31,
+                "repeticiones": 10,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 51,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "B\u00edceps",
+        "ejercicio": "Curl con barra",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 53,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 26,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 38,
+                "repeticiones": 12,
+                "esfuerzo": 9
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Trapecio",
+        "ejercicio": "Face pulls",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 38,
+                "repeticiones": 11,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 42,
+                "repeticiones": 10,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 42,
+                "repeticiones": 10,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Cu\u00e1driceps",
+        "ejercicio": "Prensa de pierna",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 21,
+                "repeticiones": 8,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 43,
+                "repeticiones": 8,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 24,
+                "repeticiones": 9,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Isquiotibiales",
+        "ejercicio": "Peso muerto rumano",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 49,
+                "repeticiones": 11,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 51,
+                "repeticiones": 8,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 23,
+                "repeticiones": 9,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Gl\u00fateos",
+        "ejercicio": "Patada trasera",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 23,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 23,
+                "repeticiones": 10,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 37,
+                "repeticiones": 9,
+                "esfuerzo": 9
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Pecho",
+        "ejercicio": "Press de banca",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 40,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 56,
+                "repeticiones": 11,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 54,
+                "repeticiones": 11,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Hombros",
+        "ejercicio": "Press militar",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 60,
+                "repeticiones": 8,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 26,
+                "repeticiones": 8,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 38,
+                "repeticiones": 10,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Tr\u00edceps",
+        "ejercicio": "Extensi\u00f3n de tr\u00edceps con cuerda",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 21,
+                "repeticiones": 10,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 24,
+                "repeticiones": 10,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 42,
+                "repeticiones": 8,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Espalda",
+        "ejercicio": "Pull-over con mancuerna",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 26,
+                "repeticiones": 12,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 38,
+                "repeticiones": 8,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 53,
+                "repeticiones": 8,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "B\u00edceps",
+        "ejercicio": "Curl con barra",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 30,
+                "repeticiones": 8,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 53,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 31,
+                "repeticiones": 11,
+                "esfuerzo": 9
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Trapecio",
+        "ejercicio": "Face pulls",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 44,
+                "repeticiones": 9,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 38,
+                "repeticiones": 9,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 21,
+                "repeticiones": 12,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Cu\u00e1driceps",
+        "ejercicio": "Prensa de pierna",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 49,
+                "repeticiones": 11,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 27,
+                "repeticiones": 11,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 20,
+                "repeticiones": 12,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Isquiotibiales",
+        "ejercicio": "Peso muerto rumano",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 51,
+                "repeticiones": 11,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 26,
+                "repeticiones": 10,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 57,
+                "repeticiones": 8,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Gl\u00fateos",
+        "ejercicio": "Puente de gl\u00fateos",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 31,
+                "repeticiones": 8,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 46,
+                "repeticiones": 8,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 38,
+                "repeticiones": 12,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Pecho",
+        "ejercicio": "Press inclinado con mancuernas",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 21,
+                "repeticiones": 9,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 43,
+                "repeticiones": 9,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 57,
+                "repeticiones": 11,
+                "esfuerzo": 9
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Hombros",
+        "ejercicio": "Press militar",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 20,
+                "repeticiones": 12,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 38,
+                "repeticiones": 11,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 47,
+                "repeticiones": 11,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Tr\u00edceps",
+        "ejercicio": "Press cerrado",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 56,
+                "repeticiones": 9,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 27,
+                "repeticiones": 12,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 59,
+                "repeticiones": 11,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Espalda",
+        "ejercicio": "Dominadas",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 40,
+                "repeticiones": 10,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 60,
+                "repeticiones": 8,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 22,
+                "repeticiones": 8,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "B\u00edceps",
+        "ejercicio": "Curl con barra",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 44,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 58,
+                "repeticiones": 9,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 20,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Trapecio",
+        "ejercicio": "Encogimientos con mancuernas",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 40,
+                "repeticiones": 10,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 55,
+                "repeticiones": 11,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 55,
+                "repeticiones": 12,
+                "esfuerzo": 9
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Cu\u00e1driceps",
+        "ejercicio": "Prensa de pierna",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 21,
+                "repeticiones": 9,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 53,
+                "repeticiones": 8,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 30,
+                "repeticiones": 10,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Isquiotibiales",
+        "ejercicio": "Buenos d\u00edas",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 26,
+                "repeticiones": 9,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 58,
+                "repeticiones": 12,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 48,
+                "repeticiones": 8,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Gl\u00fateos",
+        "ejercicio": "Puente de gl\u00fateos",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 45,
+                "repeticiones": 11,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 41,
+                "repeticiones": 11,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 24,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Pecho",
+        "ejercicio": "Press inclinado con mancuernas",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 47,
+                "repeticiones": 10,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 52,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 24,
+                "repeticiones": 8,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Hombros",
+        "ejercicio": "Elevaciones laterales",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 43,
+                "repeticiones": 9,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 38,
+                "repeticiones": 11,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 24,
+                "repeticiones": 11,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Tr\u00edceps",
+        "ejercicio": "Extensi\u00f3n de tr\u00edceps con cuerda",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 25,
+                "repeticiones": 8,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 20,
+                "repeticiones": 9,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 23,
+                "repeticiones": 10,
+                "esfuerzo": 8
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Espalda",
+        "ejercicio": "Remo con barra",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 26,
+                "repeticiones": 11,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 32,
+                "repeticiones": 11,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 31,
+                "repeticiones": 11,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "B\u00edceps",
+        "ejercicio": "Curl concentrado",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 48,
+                "repeticiones": 10,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 48,
+                "repeticiones": 11,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 52,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Trapecio",
+        "ejercicio": "Remo al ment\u00f3n",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 51,
+                "repeticiones": 9,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 29,
+                "repeticiones": 12,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 36,
+                "repeticiones": 11,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Cu\u00e1driceps",
+        "ejercicio": "Prensa de pierna",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 47,
+                "repeticiones": 9,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 27,
+                "repeticiones": 11,
+                "esfuerzo": 6
+            },
+            {
+                "peso": 27,
+                "repeticiones": 10,
+                "esfuerzo": 9
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Isquiotibiales",
+        "ejercicio": "Curl femoral",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 53,
+                "repeticiones": 8,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 55,
+                "repeticiones": 9,
+                "esfuerzo": 8
+            },
+            {
+                "peso": 24,
+                "repeticiones": 12,
+                "esfuerzo": 6
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Gl\u00fateos",
+        "ejercicio": "Puente de gl\u00fateos",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": 27,
+                "repeticiones": 10,
+                "esfuerzo": 9
+            },
+            {
+                "peso": 27,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            },
+            {
+                "peso": 23,
+                "repeticiones": 12,
+                "esfuerzo": 7
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Pecho",
+        "ejercicio": "Fondos en paralelas",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Hombros",
+        "ejercicio": "Elevaciones laterales",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Tr\u00edceps",
+        "ejercicio": "Press cerrado",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Espalda",
+        "ejercicio": "Pull-over con mancuerna",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "B\u00edceps",
+        "ejercicio": "Curl martillo",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Trapecio",
+        "ejercicio": "Remo al ment\u00f3n",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Cu\u00e1driceps",
+        "ejercicio": "Zancadas",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Isquiotibiales",
+        "ejercicio": "Peso muerto rumano",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Gl\u00fateos",
+        "ejercicio": "Hip thrust",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Pecho",
+        "ejercicio": "Press de banca",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Hombros",
+        "ejercicio": "Press militar",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            }
+        ]
+    },
+    {
+        "tipo": "Empuje",
+        "grupo_muscular": "Tr\u00edceps",
+        "ejercicio": "Press cerrado",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Espalda",
+        "ejercicio": "Remo con barra",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "B\u00edceps",
+        "ejercicio": "Curl martillo",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            }
+        ]
+    },
+    {
+        "tipo": "Jal\u00f3n",
+        "grupo_muscular": "Trapecio",
+        "ejercicio": "Encogimientos con mancuernas",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Cu\u00e1driceps",
+        "ejercicio": "Prensa de pierna",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Isquiotibiales",
+        "ejercicio": "Peso muerto rumano",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            }
+        ]
+    },
+    {
+        "tipo": "Pierna",
+        "grupo_muscular": "Gl\u00fateos",
+        "ejercicio": "Puente de gl\u00fateos",
+        "fecha": "2024-12-17",
+        "series": [
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            },
+            {
+                "peso": null,
+                "repeticiones": null,
+                "esfuerzo": null
+            }
+        ]
+    }
+]

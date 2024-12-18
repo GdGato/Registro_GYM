@@ -1,0 +1,27 @@
+```gitignore
+# Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Archivos de entorno
+.env
+
+# Archivos de configuración de IDEs
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+
+# Archivos de base de datos
+*.sqlite
+*.db
+
+# Archivos temporales de editores de texto
+*~
+*.bak
+*.swp
+
+# Archivos generados por el sistema
+*.log
